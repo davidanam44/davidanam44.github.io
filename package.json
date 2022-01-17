@@ -1,0 +1,23 @@
+{
+  "name": "davidanam44.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidanam44/davidanam44.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidanam44/davidanam44.github.io/issues"
+  },
+  "homepage": "https://github.com/davidanam44/davidanam44.github.io#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
